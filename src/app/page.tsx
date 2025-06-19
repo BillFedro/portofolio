@@ -7,7 +7,7 @@ const images = [
   { src: "/project/home.png", caption: "Dashboard" },
   { src: "/project/membership.png", caption: "Membership Info" },
   { src: "/project/voucher.png", caption: "Voucher Page" },
-  { src: "/project/register.png", caption: "Register" }
+  { src: "/project/register.png", caption: "Registerr Page" }
 ];
 
 
